@@ -1,0 +1,13 @@
+file-icons
+highlight-selected
+minimap
+
+pretty-json
+atom-beautify
+xml-formatter
+
+language-ansible
+language-groovy
+language-gradle
+language-nginx
+language-terraform
